@@ -8,6 +8,10 @@
 ## About the Project
 Python was used to create this robotic Raspberry Pi project. Line-following sensors will allow the robot to follow lines placed on the floor.
 
+## Compile Instructions
+You need to know how GPIO pins work on the Raspberry Pi 3B, 3B+, or 4 to run this program. I recommend looking up a GPIO reference card for your model.
+* *Adding compile instructions later*
+
 ## Part List
 *I would reccomend getting good quality parts, my wires ended up breaking and my motor controller board arrived broken. Upon order of the parts online from AliExpress, delivery was expected in 30-50 days.*
 * Raspberry Pi 3B, 3B+, or 4
